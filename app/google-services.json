@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731515107051",
+    "project_id": "try-bitrise",
+    "storage_bucket": "try-bitrise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731515107051:android:5077a5463840f8c7c3f0ae",
+        "android_client_info": {
+          "package_name": "com.example.trybitrice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731515107051-usq49qqlqhivgk6lobh6aiev0uhb3k0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkioeXBRuG6u-4C0wlSygfz3oUx_4W_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731515107051-usq49qqlqhivgk6lobh6aiev0uhb3k0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
