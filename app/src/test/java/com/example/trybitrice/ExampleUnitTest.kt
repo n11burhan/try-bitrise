@@ -12,7 +12,7 @@ import org.junit.Assert.*
 class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
-        assertEquals(6, 4 + 2)
+        assertEquals(7, 5 + 2)
     }
     @Test
     fun addition_isUnCorrect() {
